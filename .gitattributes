@@ -1,1 +1,2 @@
 netbi.jar filter=lfs diff=lfs merge=lfs -text
+Netbi20.apk filter=lfs diff=lfs merge=lfs -text
